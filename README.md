@@ -11,6 +11,12 @@
 - *Prilepi* vsebino odložičS
 - *Zapri* zavihek: Ctrl+W
 - *Najdi* besedo: Ctrl+F
+- *Paleta ukazov* VSCode: Ctrl+Shift+P
+- *Skok* na začetek vrstice: Home
+- *Premik* za eno besedo naprej: Ctrl+→
+- *Brisanje* vrstice: Ctrl+Shift+K
+- *Pretvorba* označenega besedila v velike črke: transform to uppercase
+
 
 <!-- 2. nivojski razdelek -->
 ## Koda
